@@ -1,0 +1,11 @@
+libdownsexta-perl (0.1-1~morago1) raring; urgency=low
+
+  * Corregidos errores en el módulo DataSexta
+
+ -- Hugo Morago Martín <morago@ono.com>  Sun, 21 Jul 2013 22:15:07 +0200
+
+libdownsexta-perl (0.1-0~morago1) raring; urgency=low
+
+  * Initial release
+
+ -- Hugo Morago Martín <morago@ono.com>  Sun, 21 Jul 2013 19:00:05 +0200
